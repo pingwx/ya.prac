@@ -1,1 +1,3 @@
+Это проект по теме "Статистический анализ данных". В нем были собраны данные о пользовании услугами связи из разных источников, объединены в одну таблицу и по ней  посчитана помесячная плата пользователей за услуги. Произведено сравнение двух тарифов и выполнена проверка статистических гипотез. В этом спринте я впервые познакомился с библиотекой SciPy и ее модулем stats.
 
+This is a project on the topic "Statistical Data Analysis". Data on the use of communication services from different sources was collected, combined into one table, and calculated the monthly user fees for services. The two tariffs were compared and the statistical hypotheses were tested. This sprint was my first introduction to the SciPy library and its stats module.
