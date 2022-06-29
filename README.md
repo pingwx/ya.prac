@@ -24,7 +24,7 @@ For the english section scroll down please. (Not fully completed yet)
 13. ML для текстов. Задачи проекта: Определение токсичности комментариев.
 14. Компьютерное зрение. Задачи проекта: Определение возраста по фотографии.
 15. Выпускной проект.
-
+___
 This repository contains some of the projects that I completed during the training in the Practicum. The number in the file name indicates the number of the sprint to which the project belongs. The full list of sprints I have completed is below. Some of the projects are omitted deliberately: they are either boring or abortive. However, those that are present here, will be quite enough to show what I have learned. Each project is available in two languages: English and Russian. Notebooks can be opened right here in the github, as well as Google Colab. The original datasets have been removed from the projects, as they are the intellectual property of Yandex.
 
 General impression of the training in the Practicum. In short, I wanted the topics of the sprints to be revealed more deeply, and the tasks in the projects were more complex. Sometimes I wanted some kind of Olympiad component in the tasks, by the end of the training, the design of projects became a routine for me. I probably had too much free time to study. However, it must be admitted that the Practicum provides a good baseline for diving into Data Science. For beginners, in my opinion, it can be difficult not to drown in all the variety of information available. The principle of the Practicum "first learn how to use it, and then get under the hood" is generally close to me.
