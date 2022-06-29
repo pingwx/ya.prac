@@ -1,5 +1,5 @@
 # Мой опыт обучения в Я.Практикуме / My Ya.Practicum experience
-For the english section scroll down please.
+**For the english section scroll down please.**
 
 В этом репозитории собраны некоторые проекты, выполненные мной в процессе обучения в Практикуме. Цифра в названии файла обозначает номер спринта, к которому относится проект. Полный список пройденных мной спринтов будет ниже. Часть проектов пропущена сознательно: они либо скучные, либо неудачные. Однако тех, что есть, будет вполне достаточно, чтобы показать, чему я научился. Каждый проект доступен на двух языках: английском и русском. Тетрадки можно открыть прямо тут в гитхабе, а так же Google Colab. Из проектов убраны исходные датасеты, поскольку они являются интеллектуальной собственностью Яндекса.
 
@@ -7,7 +7,7 @@ For the english section scroll down please.
 
 Перечислю также, чем я занимался параллельно учебе в Практикуме. Я разобрался c основами web scrapping'а и библиотекой bs4. Уметь доставать данные, а не только их анализировать, мне кажется важным. Я порешал олимпиадные задачи на https://adventofcode.com/ Набрал половину от максимума баллов. Так у меня развилась некоторая интуиция, что алгоритмы бывают хорошими, а бывают плохими. В такие понятия, как "алгоритм Дейкстры" или "динамическое программирование" я не погружался глубоко, но знаю об их существовании. Также я изучил ютуб-курс машинного обучения от МФТИ, и это дало мне гораздо более глубокое понимание, как работает МЛ. Отмечу, что без Практикума, я бы врядли понял какую-то существенную часть материала оттуда. Я вспомнил, что такое производная и градиент, разобрался в основах pytorch и на базовом уровне понимаю, как работают нейросети. А еще я разобрался в основах API Telegram и написал простого бота. Зачем - не спрашивайте )
 
-Спринты, пройденные в Практикуме:
+**Спринты, пройденные в Практикуме:**
 
 1. Базовый Python. Задачи проекта: На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.
 2. Предобработка данных. Задачи проекта: На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.
@@ -31,7 +31,7 @@ General impression of the training in the Practicum. In short, I wanted the topi
 
 I will also list what I did in parallel with my studies at the Practicum. I figured out the basics of web scrapping and the bs4 library. It seems to me important to be able to get data, and not just analyze it. I solved olympiad problems on https://adventofcode.com/ Scored half of the maximum points. So I developed some intuition that algorithms are good and bad. I have not dived deep into such concepts as "Dijkstra's algorithm" or "dynamic programming", but I know about their existence. I also took a YouTube course on machine learning from MIPT, and it gave me a much deeper understanding of how ML works. I note that without the Practicum, I would hardly have understood any significant part of the material from there. I remembered what a derivative and a gradient are, figured out the basics of pytorch, and at a basic level I understand how neural networks work. I also figured out the basics of the Telegram API and wrote a simple bot. Why - do not ask)
 
-Sprints completed in the Practicum:
+**Sprints completed in the Practicum:**
 
 1. Basic Python. Project objectives: Based on real Yandex.Music data using the Pandas library and its capabilities to check data and compare the behavior and preferences of users in two capitals — Moscow and St. Petersburg.
 2. Data preprocessing. Project objectives: On the basis of statistics on the solvency of clients, to investigate whether the marital status and the number of children of the client affect the fact of repaying the loan on time.
