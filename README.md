@@ -31,7 +31,7 @@ General impression of the training in the Practicum. In short, I wanted the topi
 
 I will also list what I did in parallel with my studies at the Practicum. I figured out the basics of web scrapping and the bs4 library. It seems to me important to be able to get data, and not just analyze it. I solved olympiad problems on https://adventofcode.com/ Scored half of the maximum points. So I developed some intuition that algorithms are good and bad. I have not dived deep into such concepts as "Dijkstra's algorithm" or "dynamic programming", but I know about their existence. I also took a YouTube course on machine learning from MIPT, and it gave me a much deeper understanding of how ML works. I note that without the Practicum, I would hardly have understood any significant part of the material from there. I remembered what a derivative and a gradient are, figured out the basics of pytorch, and at a basic level I understand how neural networks work. I also figured out the basics of the Telegram API and wrote a simple bot. Why - do not ask)
 
-Sprints completed in the Workshop:
+Sprints completed in the Practicum:
 
 1. Basic Python. Project objectives: Based on real Yandex.Music data using the Pandas library and its capabilities to check data and compare the behavior and preferences of users in two capitals — Moscow and St. Petersburg.
 2. Data preprocessing. Project objectives: On the basis of statistics on the solvency of clients, to investigate whether the marital status and the number of children of the client affect the fact of repaying the loan on time.
