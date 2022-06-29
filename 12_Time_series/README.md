@@ -1,1 +1,3 @@
+Это проект по теме "Временные ряды". В нем нас попросили разработать модель для прогнозирования спроса на заказы такси. Мы рассмотрели сезонное разложение ряда, научились создавать календарные признаки и лаги. Затем обучили несколько моделей для предсказаний. Впервые попробовали нейронную сеть простой архетиктуры.
 
+This is a project on the topic "Time Series". In it, we intended to develop a model for predicting the demand for taxi orders. We carefully studied the seasonal decomposition, which allowed us to create calendar features and lags. Then we trained several models for predictions. For the first time, a simple neural network architecture was tested.
